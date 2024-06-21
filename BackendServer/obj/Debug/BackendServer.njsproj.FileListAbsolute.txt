@@ -1,0 +1,3 @@
+D:\New folder (2)\BackendServer\BackendServer\obj\Debug\BackendServer.njsproj.AssemblyReference.cache
+D:\New folder (2)\BackendServer\BackendServer\obj\Debug\BackendServer.njsproj.CoreCompileInputs.cache
+D:\New folder (2)\BackendServer\BackendServer\bin\Microsoft.NodejsTools.WebRole.dll
