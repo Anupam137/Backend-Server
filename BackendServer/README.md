@@ -12,7 +12,7 @@ This is an Express server built with TypeScript that serves as a backend for a f
 1. Clone the repository:
    ```sh
    git clone https://github.com/Anupam137/Backend-Server.git
-   cd yourrepository
+   cd BackendServer
 
 
  2. Install dependencies
